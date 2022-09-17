@@ -1,0 +1,62 @@
+name;rotation_period;orbital_period;diameter;climate;gravity;terrain;surface_water;population
+Alderaan;24;364;12500;temperate;1 standard;grasslands_mountains;40;2000000000
+Yavin IV;24;4818;10200;temperate_tropical;1 standard;jungle_rainforests;8;1000
+Hoth;23;549;7200;frozen;1.1 standard;tundra_ice caves_mountain ranges;100;
+Dagobah;23;341;8900;murky;;swamp_jungles;8;
+Bespin;12;5110;118000;temperate;1 standard;gas_giant;0;6000000
+Endor;18;402;4900;temperate;0.85 standard;forests_mountains_lakes;8;30000000
+Naboo;26;312;12120;temperate;1 standard;grassyHills_swamps_forests_mountains;12;4500000000
+Coruscant;24;368;12240;temperate;1 standard;cityscape_mountains;;1E+12
+Kamino;27;463;19720;temperate;1 standard;ocean;100;1000000000
+Geonosis;30;256;11370;temperate_arid;0.9 standard;rock_desert_mountain_barren;5;1E+11
+Utapau;27;351;12900;temperate_arid_windy;1 standard;scrublands_savanna_canyons_sinkholes;0.9;95000000
+Mustafar;36;412;4200;hot;1 standard;volcanoes_lavaRivers_mountains_caves;0;20000
+Kashyyyk;26;381;12765;tropical;1 standard;jungle_forests_lakes_rivers;60;45000000
+Polis Massa;24;590;0;artificial_temperate ;0.56 standard;airlessAsteroid;0;1000000
+Mygeeto;12;167;10088;frigid;1 standard;glaciers_mountains_iceCanyons;;19000000
+Felucia;34;231;9100;hot_humid;0.75 standard;fungusForests;;8500000
+Cato Neimoidia;25;278;0;temperate_moist;1 standard;mountains_fields_forests_rockArches;;10000000
+Saleucami;26;392;14920;hot;;caves_desert_mountains_volcanoes;;1400000000
+Stewjon;;;0;temperate;1 standard;grass;;
+Eriadu;24;360;13490;polluted;1 standard;cityscape;;22000000000
+Corellia;25;329;11000;temperate;1 standard;plains_urban_hills_forests;70;3000000000
+Rodia;29;305;7549;hot;1 standard;jungles_oceans_urban_swamps;60;1300000000
+Nal Hutta;87;413;12150;temperate;1 standard;urban_oceans_swamps_bogs;;7000000000
+Dantooine;25;378;9830;temperate;1 standard;oceans_savannas_mountains_grasslands;;1000
+Bestine IV;26;680;6400;temperate;;rockyIslands_oceans;98;62000000
+Ord Mantell;26;334;14050;temperate;1 standard;plains_seas_mesas;10;4000000000
+NA;0;0;0;;;;;
+Trandosha;25;371;0;arid;0.62 standard;mountains_seas_grasslands_deserts;;42000000
+Socorro;20;326;0;arid;1 standard;deserts_mountains;;300000000
+Mon Cala;21;398;11030;temperate;1;oceans_reefs_islands;100;27000000000
+Chandrila;20;368;13500;temperate;1;plains_forests;40;1200000000
+Sullust;20;263;12780;superheated;1;mountains_volcanoes_rockyDeserts;5;18500000000
+Toydaria;21;184;7900;temperate;1;swamps_lakes;;11000000
+Malastare;26;201;18880;arid_temperate_tropical;1.56;swamps_deserts_jungles_mountains;;2000000000
+Dathomir;24;491;10480;temperate;0.9;forests_deserts_savannas;;5200
+Ryloth;30;305;10600;temperate_arid_subartic;1;mountains_valleys_deserts_tundra;5;1500000000
+Aleen Minor;;;;;;;;
+Vulpter;22;391;14900;temperate_artic;1;urban_barren;;421000000
+Troiken;;;;;;desert_tundra_rainforests_mountains;;
+Tund;48;1770;12190;;;barren_ash;;0
+Haruun Kal;25;383;10120;temperate;0.98;toxicCloudsea_plateaus_volcanoes;;705300
+Cerea;27;386;;temperate;1;verdant;20;450000000
+Glee Anselm;33;206;15600;tropical_temperate;1;lakesIslands_swamps_seas;80;500000000
+Iridonia;29;413;;;;rockyCanyons_acidPools;;
+Tholoth;;;;;;;;
+Iktotch;22;481;;arid_rocky_windy;1;rocky;;
+Quermia;;;;;;;;
+Dorin;22;409;13400;temperate;1;;;
+Champala;27;318;;temperate;1;oceans_rainforests_plateaus;;3500000000
+Mirial;;;;;;deserts;;
+Serenno;;;;;;rainforests_rivers_mountains;;
+Concord Dawn;;;;;;jungles_forests_deserts;;
+Zolan;;;;;;;;
+Ojom;;;;frigid;;oceans_glaciers;100;500000000
+Skako;27;384;;temperate;1;urban_vines;;5E+11
+Muunilinst;28;412;13800;temperate;1;plains_forests_hills_mountains;25;5000000000
+Shili;;;;temperate;1;cities_savannahs_seas_plains;;
+Kalee;23;378;13850;arid_temperate_tropical;1;rainforests_cliffs_canyons_seas;;4000000000
+Umbara;;;;;;;;
+Tatooine;23;304;10465;arid;1 standard;deserts;1;200000
+Jakku;;;;;;deserts;;
